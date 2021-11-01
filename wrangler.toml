@@ -6,3 +6,6 @@ workers_dev = true
 route = ""
 zone_id = ""
 compatibility_date = "2021-10-27"
+kv_namespaces = [
+         { binding = "PRINT_TYPES", preview_id = "e86024b6ed6d490580f6119c50aec9ea" }
+]
